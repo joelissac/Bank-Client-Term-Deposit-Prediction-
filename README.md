@@ -49,4 +49,4 @@ Numerical data is a type of data that is expressed in terms of numbers rather th
 
 ### The folder 'Data' contains the dataset used, and the folder 'Notebook' contains both the file related to the Explonatory Data Analysis(EDA) and the ML Model used.
 
-Any queries regarding the project?? drop a mail to - revnth@outlook.com
+Any queries regarding the project?? drop a mail to - joelissac1999@gmail.com
